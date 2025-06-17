@@ -32,7 +32,7 @@ Assista ao tutorial em vídeo detalhado no YouTube para ver o funcionamento real
 
 Baixe sempre pela página oficial para garantir a versão mais atualizada e segura:
 
-[![Página de Download](https://img.shields.io/badge/Download%20Oficial-0AFF92?logo=cloud-download&style=for-the-badge)](https://amathyzin.tech/downloads/amathyzin-3k-pack)
+[![Página de Download](https://img.shields.io/badge/Download%20Oficial-0AFF92?logo=cloud-download&style=for-the-badge)](https://amathyzin.com/downloads/amathyzin-3k-pack.html)
 
 ---
 
@@ -41,7 +41,7 @@ Baixe sempre pela página oficial para garantir a versão mais atualizada e segu
 Tem dúvidas, feedback ou precisa de ajuda rápida?  
 Entre para a comunidade oficial e receba suporte exclusivo:
 
-[![Entrar no Discord](https://img.shields.io/badge/Discord%20Oficial-5865F2?logo=discord&style=for-the-badge)](https://amathyzin.tech/discord)
+[![Entrar no Discord](https://img.shields.io/badge/Discord%20Oficial-5865F2?logo=discord&style=for-the-badge)](https://amathyzin.com/redirects/discord.html)
 
 ---
 
