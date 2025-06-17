@@ -32,7 +32,7 @@ Assista ao tutorial em vídeo detalhado no YouTube para ver o funcionamento real
 
 Baixe sempre pela página oficial para garantir a versão mais atualizada e segura:
 
-[![Página de Download](https://img.shields.io/badge/Download%20Oficial-0AFF92?logo=cloud-download&style=for-the-badge)](https://amathyzin.com/downloads/amathyzin-3k-pack.html)
+[![Página de Download](https://img.shields.io/badge/Download%20Oficial-0AFF92?logo=cloud-download&style=for-the-badge)](https://amathyzin.com/downloads/arquivos/3kpack.html)
 
 ---
 
