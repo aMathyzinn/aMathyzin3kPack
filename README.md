@@ -56,7 +56,7 @@ Quer sugerir melhorias, corrigir bugs ou ajudar na evolução do projeto?
 
 ## 📜 Licença
 
-Distribuído sob a licença GNU. Veja o arquivo [LICENSE](./LICENSE) para mais informações.
+Distribuído sob a licença GPL 3.0. Veja o arquivo [LICENSE](./LICENSE) para mais informações.
 
 ---
 
